@@ -11,6 +11,10 @@
     "output": "docs/"
   },
   "dependencies": {
+    "@tanstack/react-table": "^8.8.5",
+    "@tanstack/solid-table": "^8.8.5",
+    "@tanstack/svelte-table": "^8.8.5",
+    "@tanstack/vue-table": "^8.8.5",
     "d3": "7",
     "d3-selection": "^2.0.0",
     "d3-transition": "^2.0.0",
