@@ -3,7 +3,7 @@
 [Header
   fullWidth:true
   title:"Post 1"
-  subtitle:"Welcome to Idyll. Open index.idyll to start writing"
+  subtitle:"Parking Lot Management System"
   author:"Arya Mattu, Nabeel Siddiqui, Saud Rehman, Sawyer Hogeterp, Shubh Shah"
   authorLink:"https://idyll-lang.org"
   date:`(new Date()).toDateString()`
