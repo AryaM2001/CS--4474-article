@@ -4,7 +4,7 @@
   fullWidth:true
   title:"Post 1"
   subtitle:"Welcome to Idyll. Open index.idyll to start writing"
-  author:"Your Name Here"
+  author:"Arya Mattu, Nabeel Siddiqui, Saud Rehman, Sawyer Hogeterp, Shubh Shah"
   authorLink:"https://idyll-lang.org"
   date:`(new Date()).toDateString()`
   background:"#222222"
