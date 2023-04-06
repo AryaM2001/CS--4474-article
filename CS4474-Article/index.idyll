@@ -1,4 +1,4 @@
-[meta title:"CS 4474 Article" description:"Short description of your project" /]
+[meta title:"CS 4474 Article" description:"This is our article for the Parking Lot HCI artifact we made" /]
 
 [a id: "top"][/a]
 [Header
@@ -19,9 +19,6 @@
 [br /][a href:"#design"]Design Principles[/a]
 [br /][a href:"#eval"]Hueristic Evaluation[/a]
 [br /][a href:"#recc"]Reccomendation[/a]
-
-
-
 
 
 [a id: "exec"]## Executive Summary [/a]
@@ -48,47 +45,47 @@ In conclusion, our application is an upgraded version of an already existing app
 [a id: "design"]## Design Principles [/a]
 
 
-**1. Physical Constraints-** We have applied physical constraints in multiple locations of the application. We have utilized filters to limit the number of parking lots the user can choose to display, displaying only available time slots that are not taken for a given parking lot, and ONe more.
+**1. Physical Constraints:** We have applied physical constraints in multiple locations of the application. We have utilized filters to limit the number of parking lots the user can choose to display, displaying only available time slots that are not taken for a given parking lot, and ONe more.
 
-**2. Mapping-** We have applied mapping in a few different manners. For example, If a user decides to extend their time in a parking lot, they can increase the number of hours by clicking an up or down arrow. Essentially, whenever there is a reason to increase or decrease a value, we utilized arrows and slide bars as an option to do so. 
+**2. Mapping:** We have applied mapping in a few different manners. For example, If a user decides to extend their time in a parking lot, they can increase the number of hours by clicking an up or down arrow. Essentially, whenever there is a reason to increase or decrease a value, we utilized arrows and slide bars as an option to do so. 
 
-**3. Chunking-** We utilized headings, lines, colors, and spacing to group related items.  When users go to the home page, they can enter as a customer or manager, chunking the functions into two separate clients. Chunking can also be seen when users select a parking lot, as we chunk parking lots that have available lots and separate them from the ones that do not. Finally, the filters used in the parking lot selection can be used for chunking purposes.
+**3. Chunking:** We utilized headings, lines, colors, and spacing to group related items.  When users go to the home page, they can enter as a customer or manager, chunking the functions into two separate clients. Chunking can also be seen when users select a parking lot, as we chunk parking lots that have available lots and separate them from the ones that do not. Finally, the filters used in the parking lot selection can be used for chunking purposes.
 
-**4. Confirmation-** Confirmation was a fairly simple principle to include throughout the application. Before a user does anything permanent (say when a customer buys a ticket or a manager adds/deletes an employee), a confirmation window that includes details of the information the user added will appear.  
+**4. Confirmation:** Confirmation was a fairly simple principle to include throughout the application. Before a user does anything permanent (say when a customer buys a ticket or a manager adds/deletes an employee), a confirmation window that includes details of the information the user added will appear.  
 
-**5. Hicks Law-** Hicks Law states that the more choices there are, the longer it will take the user to decide. As such through the use of sorting and filter functions in the parking lot selection interface, we can reduce the number of options the user can select. 
+**5. Hicks Law:** Hicks Law states that the more choices there are, the longer it will take the user to decide. As such through the use of sorting and filter functions in the parking lot selection interface, we can reduce the number of options the user can select. 
 
-**6. Consistency (Aesthetic)-** Keeping things consistent from an aesthetic perspective was easy to do and evident throughout the application. We kept the design of related elements similar (ie have a confirmation window, buttons, etc.) all looking the same. Furthermore, we kept also a consistent color pallet throughout the website. We strived to include internal consistency within our application. 
+**6. Consistency (Aesthetic):** Keeping things consistent from an aesthetic perspective was easy to do and evident throughout the application. We kept the design of related elements similar (ie have a confirmation window, buttons, etc.) all looking the same. Furthermore, we kept also a consistent color pallet throughout the website. We strived to include internal consistency within our application. 
 
-**7. Transfer-** Transfer relates to the user's knowledge and how their previous experiences influence their use of the application. We wanted to achieve positive transfer, and as such many of the design elements we included are similar to those a user might have previously used. For example, the search bar within the application is used for searching lots.
+**7. Transfer:** Transfer relates to the user's knowledge and how their previous experiences influence their use of the application. We wanted to achieve positive transfer, and as such many of the design elements we included are similar to those a user might have previously used. For example, the search bar within the application is used for searching lots.
 
-**8. Garbage In-Garbage Out-**  Garbage In-Garbage Out, is a concept related to the quality of inputs. As such we have applied constrained inputs (for example, when selecting a time slot, we have made it such that the user can only enter a time and not anything else), to ensure that the quality of inputs is good. We have also included symbols like arrows whose functionality acts similarly to other applications.
+**8. Garbage In-Garbage Out:**  Garbage In-Garbage Out, is a concept related to the quality of inputs. As such we have applied constrained inputs (for example, when selecting a time slot, we have made it such that the user can only enter a time and not anything else), to ensure that the quality of inputs is good. We have also included symbols like arrows whose functionality acts similarly to other applications.
 
-**9. Feedback-** We have implemented feedback in multiple instances. Whenever a user has performed a permanent action (ie creating a ticker, adding an employee, etc), they will be provided a message notifying them of what they did. 
+**9. Feedback:** We have implemented feedback in multiple instances. Whenever a user has performed a permanent action (ie creating a ticker, adding an employee, etc), they will be provided a message notifying them of what they did. 
 
 **10. Symbolic Semiotic-** For symbolic semiotics, we used symbols to represent their related functions. Magnifying glasses to represent the search bar, and arrows to represent the sorting function were just a few instances in which we used symbols to represent their function.
 
-**11. Representation-** To represent the parking lots, we will use a grid. The grid is the same will be the same as the parking lot and acts as a visual representation of a lot. We will use different colors to indicate which lot is available and which is not. This will be a depictive representation. 
+**11. Representation:** To represent the parking lots, we will use a grid. The grid is the same will be the same as the parking lot and acts as a visual representation of a lot. We will use different colors to indicate which lot is available and which is not. This will be a depictive representation. 
 
-**12. Dynamic Representation-** The grid system parking lot will also be a dynamic representation. Users can click on a given grid (parking spot), and choose to book it. If they book it, then that spot will be a different color indicating that it is no longer available. This showcases a dynamic representation. 
+**12. Dynamic Representation:** The grid system parking lot will also be a dynamic representation. Users can click on a given grid (parking spot), and choose to book it. If they book it, then that spot will be a different color indicating that it is no longer available. This showcases a dynamic representation. 
 
-**13. Metaphors-** While there is no overarching metaphor, there are still metaphors evident throughout the application. Several symbols act as metaphors for their functionality, as well as the grid metaphor for the parking lot. 
+**13. Metaphors:** While there is no overarching metaphor, there are still metaphors evident throughout the application. Several symbols act as metaphors for their functionality, as well as the grid metaphor for the parking lot. 
 
-**14. Skeuomorphism-** Skeuomorphism- Again the grid parking lot system is an example of skeuomorphism, as the grid's appearance will imitate the representation of a parking lot. 
+**14. Skeuomorphism:** Skeuomorphism- Again the grid parking lot system is an example of skeuomorphism, as the grid's appearance will imitate the representation of a parking lot. 
 
-**15. Interactivity-**  In terms of interactivity, we have examples of it throughout the application. Users can interact with the system by increasing or decreasing the number of items in a list using sort and filter functions. They can also interact with a parking lot by clicking a given spot to see its availability, as well as book it. 
+**15. Interactivity:**  In terms of interactivity, we have examples of it throughout the application. Users can interact with the system by increasing or decreasing the number of items in a list using sort and filter functions. They can also interact with a parking lot by clicking a given spot to see its availability, as well as book it. 
 
-**16. Composite Granularity-** We utilized composite granularity to create a ticket for a spot and to add an employee. To do these actions, a user will need to enter their information one step at a time. If we take the action of booking a spot, for example, a user will first need to select a spot, then book a time, then book a duration, and so on. Most of the actions in our system will be composite granularity.
+**16. Composite Granularity:** We utilized composite granularity to create a ticket for a spot and to add an employee. To do these actions, a user will need to enter their information one step at a time. If we take the action of booking a spot, for example, a user will first need to select a spot, then book a time, then book a duration, and so on. Most of the actions in our system will be composite granularity.
 
-**17. Intermediate Focus-** Most of our actions are indirect focus. To select an input, users will often do it through an intermediate. For example, when selecting a time slot for booking a post, users will utilize arrows to increase or decrease time. There are examples of direct focus as well. The search bar and filter actions are all done directly rather than through an intermediary. 
+**17. Intermediate Focus:** Most of our actions are indirect focus. To select an input, users will often do it through an intermediate. For example, when selecting a time slot for booking a post, users will utilize arrows to increase or decrease time. There are examples of direct focus as well. The search bar and filter actions are all done directly rather than through an intermediary. 
 
-**18. Discrete Flow-**
+**18. Discrete Flow:**
 
-**19. User-Paced Timing-** Regarding time, most actions will be user-paced. we don't force the user to be on a time limit when it comes to any of the actions like viewing lots, filtering through them, booking/extending a time in a lot, adding employees, etc.
+**19. User-Paced Timing:** Regarding time, most actions will be user-paced. we don't force the user to be on a time limit when it comes to any of the actions like viewing lots, filtering through them, booking/extending a time in a lot, adding employees, etc.
 
-**20. Immediate Activation-** All actions are responded to immediately, making them all immediate activation. There are no actions that are timed or wait for certain things to be completed for the action to be completed. When you book a ticket, add an employee, view lots, etc. It is all done immediately.
+**20. Immediate Activation:** All actions are responded to immediately, making them all immediate activation. There are no actions that are timed or wait for certain things to be completed for the action to be completed. When you book a ticket, add an employee, view lots, etc. It is all done immediately.
 
-**21. Propagated Spread-** Most of the spread seen in the system will be propagated. For example, if a manager deletes a lot, that will delete all the given tickets and bookings in that lot. If a user decides to extend a booking, then the parking spot will still be clocked off for other users. 
+**21. Propagated Spread:** Most of the spread seen in the system will be propagated. For example, if a manager deletes a lot, that will delete all the given tickets and bookings in that lot. If a user decides to extend a booking, then the parking spot will still be clocked off for other users. 
 
 [a href:"#top"]Back to Top[/a]
 
