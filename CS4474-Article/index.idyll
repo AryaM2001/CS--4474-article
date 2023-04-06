@@ -35,6 +35,8 @@ In conclusion, our application is an upgraded version of an already existing app
 [hr /]
 
 [a id: "nav"]## Navigational Map [/a]
+[img src: "static/navMap.png" alt: "navMap" ]
+
 
 [a href:"#top"]Back to Top[/a]
 
@@ -128,3 +130,5 @@ Another way in which we could improve the design of the application is by adding
 The final recommendation we have for this application would be to improve the interactivity of the application by integrating it with Google Maps. There are many ways in which Google maps could improve the functionality and design of the application. When users would select a spot they can enter the address for which they would like to visit, and then they can use Google Maps to view parking spots around that area. Furthermore, we could use Google Maps to show the locations of the parking lots we feature on our website. Overall, integrating Google maps would not only improve the functionality of the application but also improve its overall interactivity and design of it. The integration of Google Maps would also help us with improving the flexibility and efficiency of use, as it would provide another means of interacting with the system and a new way to carry out an action.
 
 [a href:"#top"]Back to Top[/a]
+
+[hr /]
