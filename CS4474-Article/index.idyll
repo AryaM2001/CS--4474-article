@@ -6,8 +6,6 @@
   title:"CS 4474 Article"
   subtitle:"Parking Lot Management System"
   author:"Arya Mattu, Nabeel Siddiqui, Saud Rehman, Sawyer Hogeterp, Shubh Shah"
-  [a href:"https://github.com/uwohci23/g10-backend"]Backend Repository[/a]
-  [a href:"https://github.com/uwohci23/g10-frontend"]Fronend Repository[/a]
   date:`(new Date()).toDateString()`
   background:"#00254d"
   color:"#ffffff"
