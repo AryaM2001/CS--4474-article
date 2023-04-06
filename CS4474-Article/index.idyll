@@ -13,7 +13,7 @@
    /]
 
 
-[div style:`{text-align: right}`] ##Table of Conents[/div]
+##Table of Conents
 [a href:"#exec"]Executive Summary[/a]
 [br /][a href:"#nav"]Navigational Map[/a]
 [br /][a href:"#design"]Design Principles[/a]
@@ -35,7 +35,7 @@ In conclusion, our application is an upgraded version of an already existing app
 [hr /]
 
 [a id: "nav"]## Navigational Map [/a]
-[img src: "static/navMap.png" alt: "navMap" ]
+[img src: "static/images/navMap.png" alt: "navMap"/]
 
 
 [a href:"#top"]Back to Top[/a]
