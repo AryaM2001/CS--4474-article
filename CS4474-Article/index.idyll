@@ -6,7 +6,8 @@
   title:"CS 4474 Article"
   subtitle:"Parking Lot Management System"
   author:"Arya Mattu, Nabeel Siddiqui, Saud Rehman, Sawyer Hogeterp, Shubh Shah"
-  authorLink:"https://github.com/uwohci23/g10-frontend"
+  [a href:"https://github.com/uwohci23/g10-backend"]Backend Repository[/a]
+  [a href:"https://github.com/uwohci23/g10-frontend"]Fronend Repository[/a]
   date:`(new Date()).toDateString()`
   background:"#00254d"
   color:"#ffffff"
@@ -18,6 +19,7 @@
 [br /][a href:"#design"]Design Principles[/a]
 [br /][a href:"#eval"]Hueristic Evaluation[/a]
 [br /][a href:"#recc"]Reccomendation[/a]
+
 
 [a id: "exec"]## Executive Summary [/a]
 Our team has developed an interactive parking lot system divided into two sections. The first section is designed for managers and provides them with features like adding employees, creating new parking lots, and viewing lot usage, rates, and revenue information. These features were designed to emphasize ease of use and efficiency, allowing managers to oversee their parking lots effectively. The second section is for customers. We built features that allow customers to view available parking lots and get a summary of the lot they are interested in, including details such occupency and rates. Customers can interact with the system by selecting a parking spot and booking it. Additionally, they can extend their parking time through the various interactive elements presented on the client side. Through the client side, we aim to streamline the process of selecting and booking parking spots, providing a convenient and hassle-free experience for customers.
