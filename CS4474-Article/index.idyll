@@ -12,14 +12,12 @@
   color:"#ffffff"
    /]
 
-
 ##Table of Conents
 [a href:"#exec"]Executive Summary[/a]
 [br /][a href:"#nav"]Navigational Map[/a]
 [br /][a href:"#design"]Design Principles[/a]
 [br /][a href:"#eval"]Hueristic Evaluation[/a]
 [br /][a href:"#recc"]Reccomendation[/a]
-
 
 [a id: "exec"]## Executive Summary [/a]
 Our team has developed an interactive parking lot system divided into two sections. The first section is designed for managers and provides them with features like adding employees, creating new parking lots, and viewing lot usage, rates, and revenue information. These features were designed to emphasize ease of use and efficiency, allowing managers to oversee their parking lots effectively. The second section is for customers. We built features that allow customers to view available parking lots and get a summary of the lot they are interested in, including details such occupency and rates. Customers can interact with the system by selecting a parking spot and booking it. Additionally, they can extend their parking time through the various interactive elements presented on the client side. Through the client side, we aim to streamline the process of selecting and booking parking spots, providing a convenient and hassle-free experience for customers.
@@ -37,17 +35,15 @@ In conclusion, our application is an upgraded version of an already existing app
 [a id: "nav"]## Navigational Map [/a]
 [img src: "static/images/navMap.png" alt: "navMap" width: "600" length: "1000"/]
 
+The above navigation map gives an overview of the different interactions and UI elements present in the system. The initial page provides users with the option to be a client or managers. If a user selects the customer option, they are taken to a page with a list of parking lots and their corresponding data. They can then use the sorting, filter, and search function to select the parking lot they desire. Once they select a parking lot they will be given a grid, which is a skeuomorphic representation of the parking lot. Darker grey parking lots are lots that are already booked and lighter grey ones are available lots. Once a spot is selected, they can fill out the needed information to book the space. This ticket has confirmation, feedback, and mapping principles incorporated. If the user has already booked a spot, they have the option of extending their time at that space. At any given point, the user can always return to the list page.
 
-
+If the user selects a manager option, they then must log in with valid credentials before they can view anything. After they log in, they are taken to the main manager page which showcases the lots they own and the corresponding data. On this page, they can add and delete parking lots. If they add a parking lot they are presented with a similar UI as the booking ticket UI. Managers also have an additional tab titled Managers. In this tab, managers can add other managers, or remove them if they don't have any lots assigned to them. The add manager UI is also similar to the booking ticket UI.
 
 [a href:"#top"]Back to Top[/a]
 
 [hr /]
 
-
-
 [a id: "design"]## Design Principles [/a]
-
 
 **1. Physical Constraints:** We have applied physical constraints in multiple locations of the application. We have utilized filters to limit the number of parking lots the user can choose to display, displaying only available time slots that are not taken for a given parking lot, and greyed out unavaialbe spots in the parking spot grid menu.
 
